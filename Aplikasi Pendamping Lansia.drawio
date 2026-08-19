@@ -663,6 +663,9 @@
         <mxCell id="5YNgI7MFsumOz-SZigqP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ERD SISTEM APLIKASI PENDAMPING&amp;nbsp; LANSIA(SILVER-CARE)" vertex="1">
           <mxGeometry height="40" width="220" x="330" y="50" as="geometry" />
         </mxCell>
+        <mxCell id="5YNgI7MFsumOz-SZigqP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
