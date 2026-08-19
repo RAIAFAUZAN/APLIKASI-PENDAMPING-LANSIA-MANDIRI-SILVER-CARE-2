@@ -660,6 +660,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;img src=&quot;https://chatgpt.com/backend-api/estuary/content?id=file_000000005b7081f8bd10076e77f08e38&amp;amp;ts=496423&amp;amp;p=fs&amp;amp;cid=1&amp;amp;sig=4714b779e1c3eace2a1ed9c31799e5c53711c06318343ba6df6dbf1cd55e86e5&amp;amp;v=0&quot; alt=&quot;ERD-1024x784(1).png&quot;&gt;" link="&lt;img src=&quot;https://chatgpt.com/backend-api/estuary/content?id=file_000000005b7081f8bd10076e77f08e38&amp;amp;ts=496423&amp;amp;p=fs&amp;amp;cid=1&amp;amp;sig=4714b779e1c3eace2a1ed9c31799e5c53711c06318343ba6df6dbf1cd55e86e5&amp;amp;v=0&quot; alt=&quot;ERD-1024x784(1).png&quot;&gt;" id="_5J9DpudWgiA8zsHvusz-1">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="30" x="10" y="10" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
