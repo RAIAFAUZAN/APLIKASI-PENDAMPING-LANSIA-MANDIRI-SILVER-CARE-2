@@ -655,29 +655,11 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="VnhwvAQj6s4gIo09gUeF" name="Halaman-4">
-    <mxGraphModel dx="593" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="fybvGu5ChkikhB2sMgwa" name="Halaman-4">
+    <mxGraphModel dx="860" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5YNgI7MFsumOz-SZigqP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ERD SISTEM APLIKASI PENDAMPING&amp;nbsp; LANSIA(SILVER-CARE)" vertex="1">
-          <mxGeometry height="40" width="220" x="330" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5YNgI7MFsumOz-SZigqP-4" edge="1" parent="1" source="5YNgI7MFsumOz-SZigqP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5YNgI7MFsumOz-SZigqP-3" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5YNgI7MFsumOz-SZigqP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lansia" vertex="1">
-          <mxGeometry height="40" width="200" x="270" y="370" as="geometry" />
-        </mxCell>
-        <mxCell id="5YNgI7MFsumOz-SZigqP-6" edge="1" parent="1" source="5YNgI7MFsumOz-SZigqP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5YNgI7MFsumOz-SZigqP-5" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5YNgI7MFsumOz-SZigqP-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Nama" vertex="1">
-          <mxGeometry height="40" width="140" x="300" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="5YNgI7MFsumOz-SZigqP-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Nama_Belakang" vertex="1">
-          <mxGeometry height="40" width="140" x="300" y="160" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
